@@ -1,0 +1,10 @@
+@media screen and (max-width:770px)
+{
+    .clock{
+        max-width: 260px;
+        padding: 7px;
+    }
+    .clock h1{
+        font-size: 2.6rem;
+    }
+}
